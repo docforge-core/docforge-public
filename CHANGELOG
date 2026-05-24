@@ -1,0 +1,15 @@
+# Changelog
+
+## May 2026
+
+### PDF/A Export
+- Improved PDF/A-3 compatibility
+- Better metadata embedding
+
+### Salary Slip Templates
+- Added cleaner payroll layouts
+- Improved print spacing
+
+### Invoice System
+- Faster GST calculations
+- Better mobile PDF rendering
